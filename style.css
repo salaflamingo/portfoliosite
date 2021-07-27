@@ -121,6 +121,7 @@ section {
 .btn a {
   color: #fff;
   font-size: 22px;
+  display: block;
 }
 
 /* アバウト・ワークス・サービス・スキル共通 */
@@ -313,6 +314,7 @@ textarea {
   color: #FFFFFF;
   text-align: center;
   background-color: #A26C54;
+  cursor: pointer;
 }
 
 /* フッター */
