@@ -290,12 +290,9 @@ label {
   margin-bottom: 5px;
 }
 
-.input-subject,textarea {
+textarea {
   line-height: 2;
   font-size: 18px;
-}
-
-textarea {
   resize: none;
   height: 171px;
 }
